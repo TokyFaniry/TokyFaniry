@@ -1,3 +1,6 @@
+<div align="center">
+   <img height="237" width="90%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"/>
+</div>
 <h1 align="center">Hi 👋, I'm Toky Faniry</h1>
 - 📫 How to reach me **trazafimbelo1@gmail.com**
 
