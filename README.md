@@ -1,5 +1,5 @@
 <div align="center">
-   <img height="300" width="75%" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif"/>
+   <img height="300" width="75%" src="https://www.pinterest.com/pin/165366617556506501#imgViewer"/>
 </div>
 <h1 align="center">Hi 👋, I'm Toky Faniry</h1>
 - 📫 How to reach me **trazafimbelo1@gmail.com**
